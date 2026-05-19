@@ -79,7 +79,7 @@ project-folder/
 <p>Clone repository:</p>
 
 <pre>
-git clone https://github.com/username/nama-repository.git
+git clone https://github.com/username/nama-repository.git](https://github.com/MBAHSINGO22/Business-Intelligence-Clean-Data.git
 </pre>
 
 <p>Masuk ke folder project:</p>
